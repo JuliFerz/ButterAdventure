@@ -1,0 +1,2361 @@
+{
+    "level_1":{
+        "background":{
+                "set":"set_bg_01",
+                "type":"city",
+                "image":"all"
+            },
+        "platforms":[
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 0,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 50,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 100,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 150,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 200,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 250,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 300,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 350,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 400,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 450,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 500,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 550,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 600,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 650,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 700,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 750,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 800,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 850,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 900,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 950,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1000,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1050,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1100,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1150,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1200,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1250,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1300,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1350,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1400,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1450,
+                "y": 650
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 0,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 50,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 100,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 150,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 200,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 250,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 300,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 0,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 50,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 100,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 150,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 200,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 250,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 300,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 13,
+                "x": 500,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 550,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 600,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 650,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 700,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 750,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 800,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 850,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 900,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 950,
+                "y": 500
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 13,
+                "x": 500,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 550,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 600,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 650,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 700,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 750,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 800,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 850,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 900,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 950,
+                "y": 250
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 13,
+                "x": 1150,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1200,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1250,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1300,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1350,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1400,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1450,
+                "y": 150
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 13,
+                "x": 1150,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1200,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1250,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1300,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1350,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1400,
+                "y": 400
+            },
+            {
+                "type": "forest",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1450,
+                "y": 400
+            }
+        ],
+        "traps": [],
+        "players": [
+            {
+                "name": "stink",
+                "type": "characters",
+                "sub_type": "players",
+                "x": 0,
+                "y": 550,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "speed_walk": 2,
+                "jump_height": 15,
+                "damage": 0.2,
+                "life": 200,
+                "lives": 3,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "idle.png",
+                        "rows": 1,
+                        "columns": 16,
+                        "f_from": 0,
+                        "f_to": 16
+                    }, {
+                        "action": "walk",
+                        "fileName": "walk.png",
+                        "rows": 1,
+                        "columns": 15,
+                        "f_from": 0,
+                        "f_to": 12,
+                        "custom_cut_w": 15
+                    }, {
+                        "action": "climb",
+                        "fileName": "climb.png",
+                        "rows": 1,
+                        "columns": 19,
+                        "f_from": 0,
+                        "f_to": 19
+                    }, {
+                        "action": "jump",
+                        "fileName": "jump.png",
+                        "rows": 1,
+                        "columns": 33,
+                        "f_from": 0,
+                        "f_to": 33
+                    }, {
+                        "action": "happy",
+                        "fileName": "happy.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "angry",
+                        "fileName": "angry.png",
+                        "rows": 1,
+                        "columns": 20,
+                        "f_from": 0,
+                        "f_to": 20
+                    }, {
+                        "action": "sleep",
+                        "fileName": "sleep.png",
+                        "rows": 2,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "surprise",
+                        "fileName": "surprise.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }
+                ],
+                "control": {
+                    "type": "A"
+                }
+            }
+        ],
+        "enemies":[
+            {
+                "name": "ork_axe",
+                "type": "characters",
+                "subType": "enemies",
+                "x": 150,
+                "y": 350,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 125,
+                "speed_walk": 1,
+                "damage": 0.5,
+                "life": 10,
+                "lives": 1,
+                "points": 30,
+                "separate_files": true,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "IDLE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "walk",
+                        "fileName": "WALK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "attack",
+                        "fileName": "ATTAK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "die",
+                        "fileName": "DIE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "hurt",
+                        "fileName": "HURT",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "jump",
+                        "fileName": "JUMP",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "run",
+                        "fileName": "RUN",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }
+                ]
+            },
+            {
+                "name": "ork_hammer",
+                "type": "characters",
+                "subType": "enemies",
+                "x": 1250,
+                "y": 100,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 125,
+                "speed_walk": 1,
+                "damage": 0.5,
+                "life": 15,
+                "lives": 1,
+                "points": 50,
+                "separate_files": true,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "IDLE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "walk",
+                        "fileName": "WALK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "attack",
+                        "fileName": "ATTAK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "die",
+                        "fileName": "DIE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "hurt",
+                        "fileName": "HURT",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "jump",
+                        "fileName": "JUMP",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "run",
+                        "fileName": "RUN",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1450,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 700,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "silver_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 100,
+                "y": 350,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 15,
+                "required": true
+            },
+            {
+                "name": "gold_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1400,
+                "y": 100,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 25,
+                "required": true
+            },
+            {
+                "name": "apple",
+                "type": "food",
+                "sub_type": "apple",
+                "x": 800,
+                "y": 200,
+                "health": 50,
+                "points": 3
+            },
+            {
+                "name": "banana",
+                "type": "food",
+                "sub_type": "banana",
+                "x": 1250,
+                "y": 350,
+                "health": 50,
+                "points": 2
+            },
+            {
+                "name": "bullets",
+                "type": "weapons",
+                "sub_type": "items",
+                "x": 100,
+                "y": 100,
+                "bullets": 20
+            }
+        ]
+    },
+    "level_2":{
+        "background":{
+                "set":"set_bg_01",
+                "type":"mountain",
+                "image":"all"
+            },
+        "platforms":[
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 0,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 50,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 100,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 150,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 200,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 250,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 300,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 300,
+                "y": 600
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 500,
+                "y": 600
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 500,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 550,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 600,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 650,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 700,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 750,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 800,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 850,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 900,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 950,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 950,
+                "y": 600
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1150,
+                "y": 600
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1150,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1200,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1250,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1300,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1350,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1400,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1450,
+                "y": 650
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 0,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 50,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 100,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 150,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 16,
+                "x": 200,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 16,
+                "x": 200,
+                "y": 300,
+                "x_to": 450,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 150,
+                "y": 300,
+                "x_to": 400,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 100,
+                "y": 300,
+                "x_to": 350,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 50,
+                "y": 300,
+                "x_to": 300,
+                "mvm_frame_rate": 15
+            },            
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 0,
+                "y": 300,
+                "x_to": 250,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 650,
+                "y": 450
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 700,
+                "y": 450
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 750,
+                "y": 450
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 16,
+                "x": 800,
+                "y": 450
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1250,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1300,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1350,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1400,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1450,
+                "y": 150
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 14,
+                "x": 1000,
+                "y": 300,
+                "x_to": 1250,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1050,
+                "y": 300,
+                "x_to": 1300,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1100,
+                "y": 300,
+                "x_to": 1350,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 15,
+                "x": 1150,
+                "y": 300,
+                "x_to": 1400,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "desert",
+                "sub_type": "Tiles",
+                "image": 16,
+                "x": 1200,
+                "y": 300,
+                "x_to": 1450,
+                "mvm_frame_rate": 15
+            }
+        ],
+        "traps": [
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 100,
+                "y": 100
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 100,
+                "y": 250
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1350,
+                "y": 100
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1350,
+                "y": 250
+            }
+        ],
+        "players": [
+            {
+                "name": "green_hat",
+                "type": "characters",
+                "sub_type": "players",
+                "x": 700,
+                "y": 400,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "speed_walk": 2,
+                "jump_height": 15,
+                "damage": 0.2,
+                "life": 150,
+                "lives": 3,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "idle.png",
+                        "rows": 1,
+                        "columns": 16,
+                        "f_from": 0,
+                        "f_to": 16
+                    }, {
+                        "action": "walk",
+                        "fileName": "walk.png",
+                        "rows": 1,
+                        "columns": 15,
+                        "f_from": 0,
+                        "f_to": 12,
+                        "custom_cut_w": 15
+                    }, {
+                        "action": "climb",
+                        "fileName": "climb.png",
+                        "rows": 1,
+                        "columns": 19,
+                        "f_from": 0,
+                        "f_to": 19
+                    }, {
+                        "action": "jump",
+                        "fileName": "jump.png",
+                        "rows": 1,
+                        "columns": 33,
+                        "f_from": 0,
+                        "f_to": 33
+                    }, {
+                        "action": "happy",
+                        "fileName": "happy.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "angry",
+                        "fileName": "angry.png",
+                        "rows": 1,
+                        "columns": 20,
+                        "f_from": 0,
+                        "f_to": 20
+                    }, {
+                        "action": "sleep",
+                        "fileName": "sleep.png",
+                        "rows": 2,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "surprise",
+                        "fileName": "surprise.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }
+                ],
+                "control": {
+                    "type": "A"
+                }
+            }
+        ],
+        "enemies":[
+            {
+                "name": "ork_axe",
+                "type": "characters",
+                "subType": "enemies",
+                "x": 1300,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 125,
+                "speed_walk": 1,
+                "damage": 0.5,
+                "life": 10,
+                "lives": 1,
+                "points": 30,
+                "separate_files": true,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "IDLE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "walk",
+                        "fileName": "WALK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "attack",
+                        "fileName": "ATTAK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "die",
+                        "fileName": "DIE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "hurt",
+                        "fileName": "HURT",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "jump",
+                        "fileName": "JUMP",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "run",
+                        "fileName": "RUN",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }
+                ]
+            },
+            {
+                "name": "ork_hammer",
+                "type": "characters",
+                "subType": "enemies",
+                "x": 50,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 125,
+                "speed_walk": 1,
+                "damage": 0.5,
+                "life": 15,
+                "lives": 1,
+                "points": 50,
+                "separate_files": true,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "IDLE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "walk",
+                        "fileName": "WALK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "attack",
+                        "fileName": "ATTAK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "die",
+                        "fileName": "DIE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "hurt",
+                        "fileName": "HURT",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "jump",
+                        "fileName": "JUMP",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "run",
+                        "fileName": "RUN",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }
+                ]
+            },
+            {
+                "name": "ork_sword",
+                "type": "characters",
+                "subType": "enemies",
+                "x": 700,
+                "y": 650,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 125,
+                "speed_walk": 1,
+                "damage": 0.5,
+                "life": 20,
+                "lives": 1,
+                "points": 70,
+                "separate_files": true,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "IDLE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "walk",
+                        "fileName": "WALK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "attack",
+                        "fileName": "ATTAK",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "die",
+                        "fileName": "DIE",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "hurt",
+                        "fileName": "HURT",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "jump",
+                        "fileName": "JUMP",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }, {
+                        "action": "run",
+                        "fileName": "RUN",
+                        "qty_images": 7, 
+                        "f_from": 0,
+                        "f_to": 7
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "name": "silver_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1300,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 15,
+                "required": true
+            },
+            {
+                "name": "gold_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 700,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 25,
+                "required": true
+            },
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 0,
+                "y": 100,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 50,
+                "y": 600,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "banana",
+                "type": "food",
+                "sub_type": "banana",
+                "x": 350,
+                "y": 250,
+                "health": 50,
+                "points": 2
+            },
+            {
+                "name": "waffles",
+                "type": "food",
+                "sub_type": "waffles",
+                "x": 1300,
+                "y": 100,
+                "health": 50,
+                "points": 5
+            },
+            {
+                "name": "bullets",
+                "type": "weapons",
+                "sub_type": "items",
+                "x": 1200,
+                "y": 250,
+                "bullets": 20
+            },
+            {
+                "name": "bullets",
+                "type": "weapons",
+                "sub_type": "items",
+                "x": 1450,
+                "y": 100,
+                "bullets": 20
+            },
+            {
+                "name": "bullets",
+                "type": "weapons",
+                "sub_type": "items",
+                "x": 600,
+                "y": 600,
+                "bullets": 20
+            }
+        ]
+    },
+    "level_3":{
+        "background":{
+                "set":"set_bg_01",
+                "type":"forest",
+                "image":"all"
+            },
+        "platforms":[
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 0,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 50,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 100,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 150,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 200,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 250,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 300,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 350,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 400,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 450,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 500,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 550,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 600,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 650,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 700,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 750,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 800,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 850,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 900,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 950,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1000,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1050,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1100,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1150,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1200,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1250,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1300,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1350,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1400,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1450,
+                "y": -50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 0,
+                "y": 150
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 350,
+                "y": 150
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 0
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 50
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 100
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 150
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 200
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 250
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 550,
+                "y": 300
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 9,
+                "x": 550,
+                "y": 350
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 700,
+                "y": 500
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 750,
+                "y": 500
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 800,
+                "y": 500
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1000,
+                "y": 350
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1200,
+                "y": 250,
+                "x_to": 1400,
+                "mvm_frame_rate": 15
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1400,
+                "y": 300
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1400,
+                "y": 350
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1400,
+                "y": 400
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1400,
+                "y": 450
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 5,
+                "x": 1400,
+                "y": 500
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 9,
+                "x": 1400,
+                "y": 550
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 1250,
+                "y": 700
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 900,
+                "y": 700
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 600,
+                "y": 700
+            },
+            {
+                "type": "graveyard",
+                "sub_type": "Tiles",
+                "image": 2,
+                "x": 300,
+                "y": 700
+            }
+        ],
+        "traps":[
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 0,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 50,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 100,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 150,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 200,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 250,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 300,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 350,
+                "y": 300
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 900,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 950,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1000,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1050,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1100,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1150,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1200,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1250,
+                "y": 500
+            },
+            {
+                "type": "traps",
+                "sub_type": "Saw",
+                "image": "On",
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "x": 1300,
+                "y": 500
+            }
+        ],
+        "players": [
+            {
+                "name": "stink",
+                "type": "characters",
+                "sub_type": "players",
+                "x": 0,
+                "y": 100,
+                "exx":1000,
+                "exy":300,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "speed_walk": 2,
+                "jump_height": 15,
+                "damage": 0.2,
+                "life": 150,
+                "lives": 3,
+                "actions": [
+                    {
+                        "action": "stay",
+                        "fileName": "idle.png",
+                        "rows": 1,
+                        "columns": 16,
+                        "f_from": 0,
+                        "f_to": 16
+                    }, {
+                        "action": "walk",
+                        "fileName": "walk.png",
+                        "rows": 1,
+                        "columns": 15,
+                        "f_from": 0,
+                        "f_to": 12,
+                        "custom_cut_w": 15
+                    }, {
+                        "action": "climb",
+                        "fileName": "climb.png",
+                        "rows": 1,
+                        "columns": 19,
+                        "f_from": 0,
+                        "f_to": 19
+                    }, {
+                        "action": "jump",
+                        "fileName": "jump.png",
+                        "rows": 1,
+                        "columns": 33,
+                        "f_from": 0,
+                        "f_to": 33
+                    }, {
+                        "action": "happy",
+                        "fileName": "happy.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "angry",
+                        "fileName": "angry.png",
+                        "rows": 1,
+                        "columns": 20,
+                        "f_from": 0,
+                        "f_to": 20
+                    }, {
+                        "action": "sleep",
+                        "fileName": "sleep.png",
+                        "rows": 2,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }, {
+                        "action": "surprise",
+                        "fileName": "surprise.png",
+                        "rows": 1,
+                        "columns": 21,
+                        "f_from": 0,
+                        "f_to": 21
+                    }
+                ],
+                "control": {
+                    "type": "A"
+                }
+            }
+        ],
+        "enemies":[],
+        "items": [
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 150,
+                "y": 250,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "copper_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 800,
+                "y": 450,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 5,
+                "required": true
+            },
+            {
+                "name": "silver_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1400,
+                "y": 200,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 15,
+                "required": true
+            },
+            {
+                "name": "silver_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1250,
+                "y": 650,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 15,
+                "required": true
+            },
+            {
+                "name": "silver_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 1450,
+                "y": 450,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 15,
+                "required": true
+            },
+            {
+                "name": "gold_coin",
+                "type": "coin",
+                "sub_type": "game_coins",
+                "x": 0,
+                "y": 700,
+                "mvm_frame_rate": 15,
+                "anim_frame_rate": 65,
+                "rows": 1,
+                "columns": 8,
+                "points": 25,
+                "required": true
+            }
+        ]
+    }
+}

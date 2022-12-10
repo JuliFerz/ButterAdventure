@@ -1,0 +1,14 @@
+{
+    "music": { 
+        "background": "background.mp3",
+        "item": "coin.mp3",
+        "helltaker": "helltaker.mp3",
+        "jump": "jump.mp3",
+        "menu": "menu.mp3",
+        "select": "select.mp3",
+        "shoot": "shoot.mp3",
+        "explosion": "explosion.mp3",
+        "explosion_low": "explosion_low.mp3",
+        "impact": "impact.mp3"
+    }
+}

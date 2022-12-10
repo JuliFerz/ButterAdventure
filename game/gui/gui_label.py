@@ -1,0 +1,37 @@
+import pygame
+from gui.gui_widget import Widget
+
+
+class Label(Widget):
+    def __init__(self, main_surface, main_rect, x, y, w, h, color_background, text, text_pos, font, font_size, font_color, slave_background=''):
+        super().__init__(main_surface, main_rect, x, y, w, h, color_background, '', slave_background)
+        pygame.font.init()
+
+        self.main_surface = main_surface
+        self.main_rect = main_rect
+
+        # txt
+        self._text = text
+        self.text_pos = self.get_text_pos(text_pos)
+        self.font = pygame.font.Font(font, font_size)
+        self.font_color = font_color
+
+        if self.slave_background:
+            self.text_render = self.font.render(self._text, True, self.font_color)
+        else:
+            self.text_render = self.font.render(self._text, True, self.font_color, self.color_background)
+    
+
+    def render(self):
+        if self.slave_background:
+            self.slave_background.blit(self.text_render, self.text_pos)
+        else:
+            self.slave_widget_surface.fill(self.color_background)
+            try:
+                self.slave_widget_surface.blit(self.text_render, self.text_pos)
+            except:
+                print('EXCEPT_gui_label', self.text_pos, self._text)
+    
+    def draw(self):
+        super().draw()
+        self.render()
