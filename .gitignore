@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+
+game/src/images/
+game/src/sounds/
+game/src/super-legend-boy-font.zip
+
 # C extensions
 *.so
 
