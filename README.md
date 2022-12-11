@@ -134,7 +134,7 @@ Playing any level, the controls are:
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Debug mode
-If you wanna play in debug mode, you should modify `\ButterAdventure\game\settings\constantes.py` file
+If you want to play in debug mode, you should modify `\ButterAdventure\game\settings\constantes.py` file
    ```py
    DEBUG = True
    # DEBUG = False
