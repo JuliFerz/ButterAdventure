@@ -87,9 +87,10 @@ Next, these are the steps for downloading repo files and executing it locally
 
 To play this game, it must be installed the following:
 
-* _Python - Download Python from Microsoft Store_
+* _Python - Download Python from Microsoft Store or in Python web page_
   ```sh
-  https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5
+  Microsoft Store: https://apps.microsoft.com/store/detail/python-310/9PJPW5LDXLZ5
+  Python web page: https://www.python.org/
   ```
 * _Pygame_
   ```sh
