@@ -95,7 +95,6 @@ To play this game, it must be installed the following:
   ```sh
   pip install pygame
   ```
- * _Sqlite_
 
 ### Game installation
 
@@ -129,6 +128,7 @@ In the game menu, buttons are click selected
 Playing any level, the controls are:
 
 * Keys `W`, `A`, `D`: Player movement
+* Hold Key `SHIFT`: Run
 * Key `J`: Shoot
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
