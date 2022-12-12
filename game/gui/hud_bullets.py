@@ -70,7 +70,6 @@ class HudBullets(Widget):
         self.qty_bullets = self.get_bullets(bullets)
 
     def update(self):
-        print(len(self.qty_bullets))
         try:
             del self.qty_bullets[-1]
         except:
