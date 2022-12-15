@@ -1,3 +1,6 @@
+'''
+This is the main file. Here pygame is initialized and in the while loop the entire game runs.
+'''
 import pygame, sys
 from menu import Menu
 from settings import *

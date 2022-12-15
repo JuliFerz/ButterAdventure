@@ -17,7 +17,7 @@
   <h1 align="center">Butter Adventure</h1>
 
   <p align="center">
-    An project made in pygame!
+    A project made in pygame!
     <br />
     <a href="https://youtu.be/PAlTpb0GGug"><strong>View Demo Video! »</strong></a>
     <br />
