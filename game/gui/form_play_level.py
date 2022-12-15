@@ -75,6 +75,7 @@ class FormPlayLevel(Form):
 
         self.id = id
         self.game_level = level
+        self.game_level_id = self.game_level[0]['id']
         self.level = Level(
             level_data=self.game_level[0],
             running=self.running,

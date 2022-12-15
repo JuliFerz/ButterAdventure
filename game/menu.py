@@ -89,7 +89,8 @@ class Menu:
             color_border='',
             active=False,
             music=self.music_manager,
-            form_play_level=self.form_play_level)
+            form_play_level=self.form_play_level,
+            levels=self.game_levels)
         self.form_scores = FormScores(
             name='form_scores',
             main_surface=self.master_surface,

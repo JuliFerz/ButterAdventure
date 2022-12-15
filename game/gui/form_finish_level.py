@@ -1,18 +1,22 @@
 import pygame, sys
 sys.path.append('../game/settings')
-from settings import constantes as Const
 from gui.gui_button import Button
 from gui.form_gui import Form
 from gui.gui_label import Label
+from settings import (
+    constantes as Const,
+    settings as Sett
+)
 
 
 class FormFinishLevel(Form):
-    def __init__(self, name, main_surface, x, y, w, h, color_background, slave_background, color_border, active, music, form_play_level):
+    def __init__(self, name, main_surface, x, y, w, h, color_background, slave_background, color_border, active, music, form_play_level, levels):
         super().__init__(name, main_surface, x, y, w, h, color_background, color_border, active, slave_background)
         self.music_manager = music
         self.playing_music = False
         self.id_music = 'menu'
         self.form_play_level = form_play_level
+        self.game_levels = levels
 
         # table background
         self.table_img = pygame.image.load(f'{Const.PATH_IMAGE}/gui/jungle/settings/table.png')
@@ -154,6 +158,34 @@ class FormFinishLevel(Form):
             font=Const.PATH_FONT,
             font_size=25,
             font_color='white')
+        self.retry_button = Button(
+            main_surface=self.slave_background,
+            main_rect=self.slave_background_rect,
+            x=self.slave_background_rect.w/3,
+            y=self.slave_background_rect.h/3 + 145,
+            w=150,
+            h=40,
+            color_background=Const.VIOLET,
+            slave_background=f'{Const.PATH_IMAGE}/gui/jungle/bubble/table.png',
+            color_border='',
+            on_click=self.on_click,
+            on_click_param='retry',
+            text='Retry',
+            text_pos='left',
+            font=Const.PATH_FONT,
+            font_size=25,
+            font_color='white')
+
+    def instance_level(self, id):
+        self.level = Sett.get_levels(self.game_levels[id], id)
+    
+    def update_view_form(self, id, id_form=''):
+        if id == 'form_main_menu':
+            super().update_view_form(id)
+        else:
+            super().update_view_form(id_form)
+            self.dict_forms[id_form].running = True
+            self.dict_forms[id_form].change_level(self.level, id)
 
     def on_click(self, id):
         if id == 'submit_record':
@@ -164,6 +196,10 @@ class FormFinishLevel(Form):
                 )
             self.input_user_name = ''
             super().on_click('form_main_menu')
+        elif id == 'retry':
+            self.instance_level(self.form_play_level.game_level_id)
+            self.update_view_form(self.form_play_level.game_level_id, 'form_play_level')
+
         else:
             super().on_click(id)
 
@@ -196,6 +232,9 @@ class FormFinishLevel(Form):
             # buttons
             self.submit_button.draw()
             self.submit_button.update(event_list)
+        
+        self.retry_button.draw()
+        self.retry_button.update(event_list)
 
         self.score_label.draw()
         self.time_label.draw()
